@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Links
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://ramij333.github.io/QR_card/
 
 
 ### Built with
